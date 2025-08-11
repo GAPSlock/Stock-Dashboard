@@ -70,11 +70,6 @@ It involves extracting stock price data and revenue data for **Tesla (TSLA)** an
 ### Question 5 & 6: Create Dashboards
 Used the `make_graph` function to plot:
 
-#### Tesla Stock Data and Revenue
-![Tesla Stock Graph](Grafik%20tesla.png)
-
-#### GameStop Stock Data and Revenue
-![GameStop Stock Graph](Grafik%20Gamestop.png)
 
 ## Requirements
 To run this project, install the following Python libraries:
@@ -92,13 +87,11 @@ pip install yfinance requests beautifulsoup4 html5lib pandas plotly
 - **Tesla**: Stock price shows rapid growth after 2019, while revenue also trends upward.
 - **GameStop**: Stock price exhibits a spike in early 2021 (short squeeze), revenue relatively stable but fluctuating seasonally.
 
-## 📂 Files in This Repository
+## Files in This Repository
 
 - `Final Assignment.ipynb` → Jupyter Notebook containing all code and explanations.
 - `Tesla_Graphic.png` → Tesla stock and revenue visualization.
 - `Gamestop_Graphic.png` → GameStop stock and revenue visualization.
 - `README.md` → Project documentation.
 
----
-**Author:** IBM Data Analyst Capstone Project  
-**Tools Used:** Python, Jupyter Notebook, yfinance, BeautifulSoup, pandas, plotly
+
