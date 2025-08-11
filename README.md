@@ -86,7 +86,7 @@ pip install yfinance requests beautifulsoup4 html5lib pandas plotly
 1. Open the Jupyter Notebook.
 2. Run each cell in sequence from Question 1 to Question 7.
 3. The graphs will be displayed inline in the notebook.
-4. Final graphs are saved as `Grafik tesla.png` and `Grafik Gamestop.png`.
+4. Final graphs are saved as `Tesla_Graphic.png` and `Gamestop_Graphic.png`.
 
 ## Output Summary
 - **Tesla**: Stock price shows rapid growth after 2019, while revenue also trends upward.
@@ -94,9 +94,9 @@ pip install yfinance requests beautifulsoup4 html5lib pandas plotly
 
 ## 📂 Files in This Repository
 
-- `Final Assignment-v2.ipynb` → Jupyter Notebook containing all code and explanations.
-- `Grafik tesla.png` → Tesla stock and revenue visualization.
-- `Grafik Gamestop.png` → GameStop stock and revenue visualization.
+- `Final Assignment.ipynb` → Jupyter Notebook containing all code and explanations.
+- `Tesla_Graphic.png` → Tesla stock and revenue visualization.
+- `Gamestop_Graphic.png` → GameStop stock and revenue visualization.
 - `README.md` → Project documentation.
 
 ---
